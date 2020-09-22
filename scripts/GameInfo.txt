@@ -1,0 +1,3 @@
+gamename "Holder Test"
+author "SpeakerFish"
+version "1.0.0"
